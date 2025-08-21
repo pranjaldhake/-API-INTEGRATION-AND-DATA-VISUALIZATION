@@ -87,3 +87,6 @@ Conclusion :-
 The API Integration and Data Visualization project demonstrates the complete pipeline of fetching, processing, and presenting live data. By using APIs, the project ensures that the data is always up to date. By applying visualization, the project ensures that the information is clear, attractive, and easy to interpret. The combination of Python’s flexibility, Pandas’ data-handling capabilities, and the graphical power of Matplotlib and Seaborn results in a robust solution for transforming raw data into actionable insights.
 
 This project not only highlights technical proficiency in API integration and data visualization but also shows the practical importance of these skills in real-world problem solving and decision-making.
+
+*OUTPUT* :
+![Image](https://github.com/user-attachments/assets/12fa047c-607e-4b62-b129-b06cbd3515e8)
