@@ -89,4 +89,5 @@ The API Integration and Data Visualization project demonstrates the complete pip
 This project not only highlights technical proficiency in API integration and data visualization but also shows the practical importance of these skills in real-world problem solving and decision-making.
 
 *OUTPUT* :
+
 ![Image](https://github.com/user-attachments/assets/12fa047c-607e-4b62-b129-b06cbd3515e8)
