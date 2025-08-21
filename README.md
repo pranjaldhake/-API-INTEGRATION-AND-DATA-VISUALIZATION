@@ -32,15 +32,15 @@ The development process of the project follows these steps:
 
  1. API Selection and Authentication -
 
-   Identify a reliable public API (e.g., OpenWeatherMap).
+    Identify a reliable public API (e.g., OpenWeatherMap).
 
-   Obtain an API key to access the services.
+    Obtain an API key to access the services.
 
  2. Data Fetching -
 
-   Use Python’s requests library to send requests to the API endpoint.
+    Use Python’s requests library to send requests to the API endpoint.
 
-   Retrieve the response in JSON format.
+    Retrieve the response in JSON format.
 
  3. Data Cleaning and Structuring -
 
