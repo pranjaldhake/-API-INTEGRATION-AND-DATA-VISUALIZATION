@@ -32,55 +32,55 @@ The development process of the project follows these steps:
 
  1. API Selection and Authentication -
 
-    Identify a reliable public API (e.g., OpenWeatherMap).
+        Identify a reliable public API (e.g., OpenWeatherMap).
 
-    Obtain an API key to access the services.
+        Obtain an API key to access the services.
 
  2. Data Fetching -
 
-    Use Python’s requests library to send requests to the API endpoint.
-
-    Retrieve the response in JSON format.
+        Use Python’s requests library to send requests to the API endpoint.
+ 
+        Retrieve the response in JSON format.
 
  3. Data Cleaning and Structuring -
 
-    Convert the JSON data into a Pandas DataFrame.
+        Convert the JSON data into a Pandas DataFrame.
 
-    Handle missing values and remove unnecessary information.
+        Handle missing values and remove unnecessary information.
 
  4. Exploratory Data Analysis (EDA) -
 
-    Perform descriptive statistics.
+        Perform descriptive statistics.
 
-    Analyze correlations and patterns.
+        Analyze correlations and patterns.
 
 5. Visualization and Dashboard Creation -
 
-   Use Matplotlib to create line plots and bar charts.
+       Use Matplotlib to create line plots and bar charts.
 
-   Use Seaborn for advanced plots such as heatmaps.
+       Use Seaborn for advanced plots such as heatmaps.
 
-Arrange multiple graphs into a dashboard layout for easy interpretation.
+       Arrange multiple graphs into a dashboard layout for easy interpretation.
 
 Deliverables :-
 
 The final deliverables of the project are:
 
-A Python script that integrates with the selected public API, retrieves live data, and processes it into a structured dataset.
+    A Python script that integrates with the selected public API, retrieves live data, and processes it into a structured dataset.
 
-A visualization dashboard that includes multiple graphs, enabling users to quickly understand the insights hidden in the dataset.
+    A visualization dashboard that includes multiple graphs, enabling users to quickly understand the insights hidden in the dataset.
 
 Applications :-
 
 The approach demonstrated in this project has a wide range of real-world applications. Examples include:
 
-Weather monitoring: Live dashboards for temperature, humidity, and rainfall.
+    Weather monitoring: Live dashboards for temperature, humidity, and rainfall.
 
-Financial analytics: Tracking stock market fluctuations using financial APIs.
+    Financial analytics: Tracking stock market fluctuations using financial APIs.
 
-Health statistics: Visualizing COVID-19 data across countries.
+    Health statistics: Visualizing COVID-19 data across countries.
 
-Logistics and planning: Using weather data for supply chain and transportation management.
+    Logistics and planning: Using weather data for supply chain and transportation management.
 
 Conclusion :-
 
@@ -89,5 +89,6 @@ The API Integration and Data Visualization project demonstrates the complete pip
 This project not only highlights technical proficiency in API integration and data visualization but also shows the practical importance of these skills in real-world problem solving and decision-making.
 
 *OUTPUT* :
+<img width="969" height="219" alt="Image" src="https://github.com/user-attachments/assets/e45559fa-9865-495d-bec7-5c1dbcbc29cd" />
 
-![Image](https://github.com/user-attachments/assets/12fa047c-607e-4b62-b129-b06cbd3515e8)
+<img width="1239" height="823" alt="Image" src="https://github.com/user-attachments/assets/c869530b-90f0-4cbe-80c2-8c0f180081e2" />
